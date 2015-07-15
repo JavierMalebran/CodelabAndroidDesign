@@ -1,4 +1,4 @@
-package com.inthecheesefactory.designlibrary;
+package com.gdgantofagasta.designlibrary;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

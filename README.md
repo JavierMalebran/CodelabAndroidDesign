@@ -2,7 +2,7 @@
 
 A full tutorial on how to use Android Design Support Library. (60 mins)
 
-![](https://raw.githubusercontent.com/nuuneoi/Lab-Android-DesignLibrary/master/promo.jpg)
+
 
 The target result is
 
